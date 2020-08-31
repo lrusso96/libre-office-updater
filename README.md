@@ -23,3 +23,5 @@ Then it starts the installation process, which needs to be manually completed by
 - **v**. Specifies the version to install, e.g. "7.0.0"
 
 If the previous parameters are not passed to the script, a dialog is prompted to insert them.
+
+**Note:** for sake of simplicity, I have included in the release assets an executable version that you can download and run.
